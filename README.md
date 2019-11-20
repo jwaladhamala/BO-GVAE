@@ -3,7 +3,7 @@
 This repository provides the code and data described in the paper:
 
 **[Bayesian Optimization on Large Graphs via a Graph Convolutional Generative Model: Application in Cardiac Model Personalization]([https://arxiv.org/abs/1907.01406](https://arxiv.org/abs/1907.01406))**
-  <a href="http://jwaladhamala.com/" target="_blank">Jwala Dhamala</a>,  <a href="#" target="_blank">Sandesh Ghimire</a>,  <a href="#" target="_blank">John L. Sapp</a>,  <a href="#" target="_blank">B. Milan Horachek</a>,  <a href="[https://pht180.rit.edu/cblwang/](https://pht180.rit.edu/cblwang/)" target="_blank">Linwei Wang</a>,
+  <a href="http://jwaladhamala.com/" target="_blank">Jwala Dhamala</a>,  Sandesh Ghimire,  John L. Sapp,  B. Milan Horachek,  <a href="[https://pht180.rit.edu/cblwang/](https://pht180.rit.edu/cblwang/)" target="_blank">Linwei Wang</a>,
 
 To be presented at <a href="[https://www.miccai2019.org/](https://www.miccai2019.org/)" target="_blank">MICCAI 2019</a>
 
