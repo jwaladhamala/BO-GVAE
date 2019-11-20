@@ -58,8 +58,10 @@ To evaluate pre-trained VAE from stage 1 with settings listed in `params_fvae.js
 
 # Data
 
-bogvae requires two types of data: 1) training data of tissue properties to train VAE and 2) patient cases with EKG signals to estimate unknown parameters.  Please download data from the link below and extract them in the `data/` folder.
-** link coming soon
+bogvae requires two types of data: 1) training data of tissue properties to train VAE and 2) patient cases with EKG signals to estimate unknown parameters.  Please download data from the link below and extract them in the `data/` folder. Experiments are saved under `experiments/` folder.
+
+<a href="https://drive.google.com/file/d/1F0p7RzNnTs_3zHPUc5fb0hh0LpxfbnEq/view?usp=sharing" target="_blank">sample data and experiment</a>
+
 
 
 # Contact
