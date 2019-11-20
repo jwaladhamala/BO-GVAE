@@ -1,0 +1,13 @@
+__pycache__/
+data/
+experiments/
+logs/
+build/
+dist/
+.ipynb_checkpoints/
+.cache/
+.eggs/
+*.egg-info/
+
+
+!torch_geometric/data/

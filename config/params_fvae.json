@@ -1,0 +1,34 @@
+{
+  "model_type": "fvae",
+  "model_name": "case3_fvae_1",
+  "learning_rate": 0.001,
+  "batch_size": 128,
+  "num_epochs": 85,
+  "latent_dim": 2,
+  "nf": [
+    1,
+    8,
+    16,
+    32,
+    64,
+    128,
+    128
+  ],
+  "makegraph": 0,
+  "graph_name": "N/A",
+  "heart_name": "case3",
+  "num_meshfree": 1230,
+  "opti_exps": [
+    "case3_test_ir_ic_11",
+    "case3_test_ir_ic_13",
+    "case3_test_ir_ic_12",
+    "case3_sep_e4"
+  ],
+  "acq_funs": [
+    "ei"
+  ],
+  "niter": 60,
+  "inipts": 5,
+  "vae_latest": "m_latest",
+  "verbose_bo":1
+}
